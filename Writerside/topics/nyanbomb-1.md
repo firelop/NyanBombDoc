@@ -1,0 +1,3 @@
+# About nyanbomb
+
+Start typing here...
